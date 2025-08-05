@@ -1,5 +1,5 @@
 #!/bin/bash
-# Declaration of variables
+# Declaration of variables in new
 name=Tom
 age=12
 # Displaying variables
